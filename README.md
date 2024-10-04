@@ -34,7 +34,11 @@ Note Sharing: Notes can be shared with other apps or users via a share button.
 State Management: The app uses BlocProvider for state management, making the app scalable and efficient.
 
 # Technologies Used
+
 Flutter: For cross-platform mobile development.
+
 SQLite: For local note storage.
+
 Firebase Console: For cloud-based note storage and user authentication.
+
 Bloc Pattern: To manage application state efficiently.
